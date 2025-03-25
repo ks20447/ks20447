@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## PhD Researcher at the University of Bristol investigating Swarm-Enabled Spatial Intelligence (SESI)
+
+- 🔭 I’m currently working on geometric patrol routes as a strategy for SESI
+- 🌱 I’m currently learning antenna array design and modelling as well as ROS2 and physics-based simualtion environments
+- 📫 How to reach me: Email me at adam.morris@bristol.ac.uk or adamrhysmorris@gmail.com
+
 <!--
 **ks20447/ks20447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
